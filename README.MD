@@ -81,12 +81,6 @@ These are features that some people would love this project to have, however, th
 
 4. Run `npm run start:dev`
 
-## Discord Server
-
-I use the discord server to get suggestions from people, learn about bugs, share (and recieve) old videos/screenshots of the Roblox website in order to allow me to recreate pages more easily, and to chat.
-
-Join the discord server here: discord.gg/S9apqS2
-
 ## ❌ Warning ❌
 
 If you try to host this publicly, you will probably get smacked with a DMCA take-down notice or have your site taken down due to it being reported for phishing. Although I can't stop you from hosting it, it is recommended that you just keep this for personal use.
